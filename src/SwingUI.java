@@ -140,8 +140,8 @@ add(topPanel, BorderLayout.NORTH);
         statusLabel.setText("✅ Data stored in PostgreSQL successfully");
 
     } catch (Exception e) {
-        e.printStackTrace();
         statusLabel.setText("❌ Error occurred while processing file");
+        e.printStackTrace();
     }
 }
 }
