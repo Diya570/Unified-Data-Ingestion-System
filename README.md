@@ -2,14 +2,14 @@
 A java-based system that ingests TXT,XML,XLS files and stores parsed data into PostgreSQL.
 
 Technologies:
--Java 17
--Java Swing
--PostgreSQL
--Apache POI
--DOM XML Parser
+1.Java 17
+2.Java Swing
+3.PostgreSQL
+4.Apache POI
+5.DOM XML Parser
 
 Features:
--Multi-format data ingestion
--Data preview
--File parsing
--DataBase storage 
+1.Multi-format data ingestion
+2.Data preview
+3.File parsing
+4.DataBase storage 
