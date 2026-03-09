@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <department name="IT">
+        <employee>
+            <id>101</id>
+            <name>Aarav</name>
+            <role>Software Engineer</role>
+            <salary>90000</salary>
+            <location>Bangalore</location>
+        </employee>
+        <employee>
+            <id>102</id>
+            <name>Sneha</name>
+            <role>Backend Developer</role>
+            <salary>85000</salary>
+            <location>Hyderabad</location>
+        </employee>
+    </department>
+
+    <department name="HR">
+        <employee>
+            <id>201</id>
+            <name>Meera</name>
+            <role>HR Manager</role>
+            <salary>60000</salary>
+            <location>Mangalore</location>
+        </employee>
+        <employee>
+            <id>202</id>
+            <name>Kavya</name>
+            <role>Recruiter</role>
+            <salary>55000</salary>
+            <location>Udupi</location>
+        </employee>
+    </department>
+
+    <department name="Finance">
+        <employee>
+            <id>301</id>
+            <name>Rohan</name>
+            <role>Financial Analyst</role>
+            <salary>75000</salary>
+            <location>Mumbai</location>
+        </employee>
+        <employee>
+            <id>302</id>
+            <name>Pooja</name>
+            <role>Accountant</role>
+            <salary>70000</salary>
+            <location>Kolkata</location>
+        </employee>
+    </department>
+</company>
